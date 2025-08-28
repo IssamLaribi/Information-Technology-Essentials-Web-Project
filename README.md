@@ -18,6 +18,8 @@ project-root/
 ├── g.html # Subpage G
 │
 ├── images/
+│ ├── Google_Chrome_Logo.png
+│ ├── Gmail_Logo.png
 │ └── ... # All project images
 
 ---
