@@ -7,7 +7,7 @@ The project demonstrates the use of HTML pages with images and a basic folder st
 
 ## 📂 Project Structure
 
----
+'''
 
 project-root/
 │
@@ -25,6 +25,7 @@ project-root/
 │ ├── Gmail_Logo.png
 │ └── ... # All project images
 
+'''
 ---
 
 ## 🚀 How to Run
