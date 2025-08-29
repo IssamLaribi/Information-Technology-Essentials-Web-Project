@@ -7,6 +7,8 @@ The project demonstrates the use of HTML pages with images and a basic folder st
 
 ## 📂 Project Structure
 
+---
+
 project-root/
 │
 ├── index.html # Main homepage
