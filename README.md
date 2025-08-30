@@ -32,6 +32,6 @@ project-root/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/IssamLaribi/Information-Technology-Essentials-Web-Project.git
+   git clone https://github.com/IssamLaribi/Information-Technology-Essentials-Web-Project
 
 2. Open index.html in your browser.
