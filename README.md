@@ -5,7 +5,8 @@ The project demonstrates the use of HTML pages with images and a basic folder st
 
 ---
 
-## Live💥💥💥💥: https://issamlaribi.github.io/Information-Technology-Essentials-Web-Project/
+## Live🔥🔥🔥:
+https://issamlaribi.github.io/Information-Technology-Essentials-Web-Project/
 
 ---
 
